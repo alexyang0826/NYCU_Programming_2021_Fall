@@ -25,7 +25,17 @@ Output:
 Trump & Xi
 
 ## HW2
+### XAXB Game
+User inputs their answer as "userA".
+The computer generates its answer randomly as "comA".
+The user guesses the computer's answer and inputs it as "userG". The computer uses "userG" to compare with "comA" and stores the result in "userAB[2]", simultaneously displaying the result.
+The computer uses the method from the video to guess the user's answer. The computer guesses "comG", and the result is stored in "comAB[2]".
+If either the user or the computer reaches "4A0B," the game ends.
+Determination: Draw, Computer Wins, User Wins.
 
+## HW3
+### Sudoku
+A code that auto solve sudoku.
 
 ## Final Project
 Program Purpose
