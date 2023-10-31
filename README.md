@@ -39,33 +39,35 @@ Consumer Main System Functions
 Main system functions include reading user database, user login, displaying the main screen, and a main menu with seven major features.
 Implement user interface handling for navigation.
 Update user data before exiting the system.
-Function 1: Order
++ Function 1: Order
 
-+ Display the drink shop menu and allow customers to select drinks, quantities, and customization options.
+Display the drink shop menu and allow customers to select drinks, quantities, and customization options.
 Validate if the user has enough balance for the order.
 Save order details to a file.
-Function 2: Check Orders
++ Function 2: Check Orders
 
-+ Read and display existing orders from a file.
-Function 3: Modify Member Data
+Read and display existing orders from a file.
++ Function 3: Modify Member Data
 
-+ Allow users to change their passwords.
+Allow users to change their passwords.
 Password input should be masked.
 Ensure password input validation.
-Function 4: Chat Room
 
-+ Read messages from a file and allow users to post messages under their usernames.
-Function 5: Play Sudoku
++ Function 4: Chat Room
 
-+ Play a Sudoku game, and if successfully completed, earn $20 of balance.
-Function 6: Play XAXB Game
+Read messages from a file and allow users to post messages under their usernames.
++ Function 5: Play Sudoku
 
-+ Play a game with the computer and keep a record of wins and ties. Earning balance based on outcomes.
-Function 0: Exit System
+Play a Sudoku game, and if successfully completed, earn $20 of balance.
++ Function 6: Play XAXB Game
+
+Play a game with the computer and keep a record of wins and ties. Earning balance based on outcomes.
++ Function 0: Exit System
 
 + Shop Owner Login Main System Functions
 
 + Shop owner login with special privileges.
 Options to view orders and top up customers' balances.
+
 + Additional Creative Features
 Encourage students to come up with their own creative features.
