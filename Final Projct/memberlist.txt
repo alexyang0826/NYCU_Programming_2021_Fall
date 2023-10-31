@@ -1,0 +1,36 @@
+7
+KEBUKE
+1111
+11
+0
+0 0 0
+Howard
+1234
+101
+460
+1 1 1
+Panda
+abcd
+3
+0
+1 1 1
+Minna
+5566
+5
+130
+1 1 1
+Jason
+stupid
+7
+100
+1 1 1
+qwer
+qwer
+61
+130
+3 3 1
+asdf
+asdf
+3
+230
+1 1 1
